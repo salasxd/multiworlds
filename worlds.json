@@ -1,0 +1,28 @@
+[
+    {
+        "name": "world_1",
+        "ip": "127.0.0.1",
+        "port": "19132",
+        "portv6": "19133",
+        "shared": true,
+        "shared_read": true,
+        "killreturn": false,
+        "dimensions": {
+            "nether": true,
+            "end": true
+        }
+    },
+    {
+        "name": "world_2",
+        "ip": "127.0.0.1",
+        "port": "19134",
+        "portv6": "19135",
+        "shared": false,
+        "shared_read": true,
+        "killreturn": true,
+        "dimensions": {
+            "nether": false,
+            "end": false
+        }
+    }
+]

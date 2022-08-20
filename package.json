@@ -1,0 +1,18 @@
+{
+  "name": "@bdsx/multiworlds",
+  "version": "0.0.1-beta",
+  "description": "Podras usar multimundos en bedrock by SalasCris",
+  "main": "index.js",
+  "keywords": [],
+  "author": "SalasCris",
+  "license": "ISC",
+  "bdsxPlugin": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "prepare": "tsc || exit 0"
+  },
+  "devDependencies": {
+    "bdsx": "file:../bdsx"
+  }
+}
