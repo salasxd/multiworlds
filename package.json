@@ -1,0 +1,18 @@
+{
+  "name": "@bdsx/multiworlds",
+  "version": "1.0.0",
+  "description": "Multiworlds Beta 2",
+  "main": "index.js",
+  "keywords": [],
+  "author": "SalasCris",
+  "license": "ISC",
+  "bdsxPlugin": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "prepare": "tsc || exit 0"
+  },
+  "devDependencies": {
+    "bdsx": "file:../bdsx"
+  }
+}
