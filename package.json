@@ -1,7 +1,7 @@
 {
   "name": "@bdsx/multiworlds",
-  "version": "1.0.0",
-  "description": "Multiworlds Beta 2",
+  "version": "1.0.0-beta-3",
+  "description": "Multiworlds Beta 3",
   "main": "index.js",
   "keywords": [],
   "author": "SalasCris",
